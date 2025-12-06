@@ -219,3 +219,5 @@ These tests confirm that:
 
 * Author: **Xinyu Zhen**
 The project reviews the Insertion Sort algorithm from CISC 121 and uses the official Gradio documentation as a reference for building the user interface.
+*AI Assistance Statement:
+I used ChatGPT (OpenAI GPT-5.1) at Level 4 to help me organize the project structure, refine the wording of my README, and improve the clarity of my code comments. I implemented the insertion sort algorithm myself, tested the app with multiple inputs (including edge cases), and made all final decisions about what to include in the submission. All debugging and verification were done by me.
